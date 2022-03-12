@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import React from 'react'
-import './App.css'
+
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import BannerPage from './pages/Banner'
 import DetailPage from './pages/Detail'
